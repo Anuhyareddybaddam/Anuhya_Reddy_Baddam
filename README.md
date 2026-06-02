@@ -17,8 +17,6 @@ Security Analyst with 2 years of experience in:
 
 ## Featured Repositories
 - Sentinel-KQL-Library
-- Detection-Engineering-Lab
-- Threat-Hunting-Playbooks
 - SOC-Investigation-Case-Studies
 - MITRE-ATTACK-Detection-Mapping
-- Sigma-Rules
+
