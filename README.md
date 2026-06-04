@@ -6,17 +6,11 @@ Security Analyst with 2 years of experience in:
 - Microsoft Sentinel
 - QRadar
 - Defender XDR
-- CrowdStrike
-- Azure Security
-
-## Current Focus
-- Detection Engineering
-- Threat Hunting
-- KQL Development
-- MITRE ATT&CK
-
+- CrowdStrike Falcon
+- Microsoft Azure
+- Cortex XDR
+- ZScaler
+  
 ## Featured Repositories
-- Sentinel-KQL-Library
-- SOC-Investigation-Case-Studies
-- MITRE-ATTACK-Detection-Mapping
+- Phishing-Investigation-Playbook
 
