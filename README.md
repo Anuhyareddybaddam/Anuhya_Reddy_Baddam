@@ -7,8 +7,6 @@ Skilled in analyzing security alerts, conducting incident triage, validating thr
 
 Certified in SC-200, AZ-500, and CompTIA CySA+. Passionate about Incident Response, Threat Hunting, Detection Engineering, and Cloud Security, with a strong focus on continuous learning and hands-on security projects.
 
-This GitHub showcases my SOC investigations, threat hunting exercises, detection engineering projects, and learning journey as I continue building expertise in advanced cyber defense.
-
 <h2>👩🏻‍💻 I’m currently working on:</h2>
 
 * Microsoft Sentinel
@@ -19,6 +17,8 @@ This GitHub showcases my SOC investigations, threat hunting exercises, detection
 * Cortex XDR
 * ZScaler
 * Servicenow
+
+<I><b>This GitHub showcases my SOC investigations, threat hunting exercises, detection engineering projects, and learning journey as I continue building expertise in advanced cyber defense.</I></b>
 
 
 <!--
