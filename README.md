@@ -1,5 +1,5 @@
 # Anuhya_Reddy_Baddam
-SOC Analyst | Microsoft Sentinel | Defender XDR | KQL
+--- Information Security Analyst ---
 
 ## About Me
 Security Analyst with 2 years of experience in:
